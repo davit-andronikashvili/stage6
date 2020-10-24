@@ -116,3 +116,35 @@ body {
 	height: 2px;
 	color: red;
 }
+/*end*/
+/*section3*/
+.box222{
+	margin-top: 57px;
+	float: left;
+	width: 633px;
+	height: 669px;
+}
+.box333{
+	margin-top: 57px;
+	float: right;
+	width: 633px;
+	height: 669px;
+}
+.box222333_h{
+	margin-top: 20px;
+	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', sans-serif;
+	width: 563px;
+	height: 94px;
+	font-size:36px;
+	color: #181C28;
+}
+.box222333_p{
+	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 22px;
+	width: 636px;
+	height: 81px;
+	color: #7B7B7B:;
+	font-size:16px;
+}
