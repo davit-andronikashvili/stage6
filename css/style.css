@@ -1,0 +1,34 @@
+.clear{
+	clear: both;
+}
+.header-wraper::after{
+	content: '';
+	clear: both;
+	display: block;
+	width: 1600px;
+	height: 120px;
+}
+.nav-ul::after{
+	content: '';
+	clear: both;
+	display: block;
+}
+.Group2{
+	float: left;
+	margin-left: 140px;
+}
+.navigation{
+	float: right;
+	margin-top: 48px;
+	margin-right: 720px;
+}
+.nav-li{
+	float: left;
+	margin-right: 46px;
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+}
+.nav-color{
+	color: #181C28;
+}
+/*/end header*/
